@@ -25,3 +25,10 @@ Honestly speaking we don’t have any rules, besides some general socially accep
 _We reserve the right to disqualify (or kick off you) if other participants agreed that your comportment is inappropriate._
 
 ## Projects
+
+###10 PRINT "Cowsay hack"
+Tiny BASIC on Arduino nano
+
+by *Vladimir Melnic*
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bynCNhmGKwo/0.jpg)](https://www.youtube.com/watch?v=bynCNhmGKwo)
