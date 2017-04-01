@@ -26,7 +26,7 @@ _We reserve the right to disqualify (or kick off you) if other participants agre
 
 ## Projects
 
-###10 PRINT "Cowsay hack"
+### 10 PRINT "Cowsay hack"
 Tiny BASIC on Arduino nano
 
 by *Vladimir Melnic*
