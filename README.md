@@ -18,12 +18,10 @@ Cowsay Hack Day is a one day hackathon where participants, grouped in teams (of 
 <br>
 
 ## (no)Rules
-<p>
 Honestly speaking we don’t have any rules, besides some general socially accepted norms of conduct like:
 * Don’t build racist/sexist/discriminatory products.
 * Be a team player. Do not conflict/insult other participants.
-<br>
+
 _We reserve the right to disqualify (or kick off you) if other participants agreed that your comportment is inappropriate._
 
 ## Projects
-
