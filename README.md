@@ -32,3 +32,12 @@ Tiny BASIC on Arduino nano
 by *Vladimir Melnic*
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bynCNhmGKwo/0.jpg)](https://www.youtube.com/watch?v=bynCNhmGKwo)
+
+### Cowsay Show time tracking
+Application for Cowsay Show time tracking
+
+by *Egor Boaghi*
+![IMAGE](http://image.prntscr.com/image/5ec5dd7d672442f39fc53d6233eedc67.png)
+
+_[REPO](https://github.com/egorbwork/CowsayShowHackatonClicker)_
+
