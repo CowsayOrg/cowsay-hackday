@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/f29fb05637f3e94b214f17d7e08002cd038d44e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_b960bb8358f099402c36d482ab759d6f137d7fc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_9cb5db6754ca21534f646bc17803315f20f56251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/bff9d4f7e3def3f7225aae95ca6ff0848dfd31f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_0ca69e91f4f31342da71936386de25dd18cff5f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/3c9924efa40a400a81e6e8f4f5ffbcc98f5aab09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_0afd53b34683c788dda401c2236a9bbff7d0ae72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/2cebd76b0edca601ee80b3d451bdedf75e5aa453/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_19c8c1fc15025ff999376bee12d462bc70c4b277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/3f6b3961e90bd065cf700c9cd2921978c86ce5b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_9170189eaf67ffac211ee23195066d62c429b4da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/6e46f0b9439f18f782ea1fabb8ca2a29258b2cc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_882fae0f5ff3aa5b0d7b194a9fb0f6213d79097d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/0075b96d6045ec7148fa0ba965e623c09220b9fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_d26106ae802b26e3fcac87b1d20953f9d924d008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/3e765ba20f4e7921edf89ce57eeed3a8da321e8a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_da76ee4966a364153b0c2c4d0fe2193199fb81cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/febd7817b8adc37be7b300c364e7fa9d15989542/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_a8ef526fb09ead1501e24562e450a89cf5bd73dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/6e2a751668764a1d0074ec3de6db808d7374618b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_b0d797a7109f7ff29fbdb81ed8b2b7480b2c309f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/4ca37939b94d74c89c48e2300af13027679004e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_669019b12a70e769d38fb8ede589e17780b2fb94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hackintosh/.android/build-cache/3f7d358c4f7806889631fe1eec4cd721dc550cdd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hackintosh/Desktop/internship/ForceThemDoIt/app/build/intermediates/pre-dexed/debug/classes_0eef55932f6bb1002f620c6dda070bf5e8555752.jar" />
+    </item>
+
+</items>
